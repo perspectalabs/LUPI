@@ -9,7 +9,7 @@ setup(name='lupi_svm',
       license='MIT',
       packages=['lupi_svm'],
       install_requires=[
-          'scikit-learn==0.19.1',
+          'scikit-learn==1.5.0',
           'pandas>=0.22.0',
           'scipy>=1.2.1',
           'numpy>=1.14.3'
